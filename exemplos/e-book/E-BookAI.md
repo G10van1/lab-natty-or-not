@@ -31,7 +31,7 @@ Isso já não é mais ficção científica. IAs generativas estão **transforman
   
 Essa nova era de produtividade promete não só facilitar nossa rotina, mas também elevar nossa capacidade criativa para novos patamares.
 
-#### **Sugestão de Figura 2:**
+![Image](FuturisticAI.jpg)
 *Cena de cotidiano com diferentes aplicações de IA (assistente virtual, criação automática de conteúdos, automação em tarefas).* 
 
 ---
