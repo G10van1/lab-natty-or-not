@@ -59,8 +59,8 @@ A IA pode simular o estilo de um grande pintor ou criar composições musicais i
 
 No futuro, as **parcerias entre humanos e IAs** em campos como design, escrita, música e arte prometem dar origem a um novo tipo de criatividade, onde o impossível se torna realidade.
 
-#### **Sugestão de Figura 4:**
-*Exemplos comparativos de criações artísticas humanas versus criações geradas por IA.*
+![Image](AIxHuman.jpg)
+*Criações humanas versus criações geradas por IA.*
 
 ---
 
