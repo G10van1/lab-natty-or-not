@@ -14,7 +14,7 @@ Se você já brincou com um chatbot que parece saber o que você quer dizer ante
 
 Ao contrário de outras formas de IA, que apenas analisam ou classificam informações, as IAs generativas **criam algo novo**, como poemas, artigos, soluções de problemas, ou até mesmo esboços de projetos criativos.
 
-[!Figura 1](./AI-AIGen.jpg)
+![Image](AI-AIGen.jpg)
 *Diagrama ilustrando a diferença entre IAs tradicionais (classificação) e IAs generativas (criação).*
 
 ---
