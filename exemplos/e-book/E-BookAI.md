@@ -74,7 +74,7 @@ Além disso, precisamos estar atentos às **questões de equidade**. Quem terá 
 
 No fim, as IAs generativas têm um enorme potencial para **transformar a sociedade**, mas isso dependerá de como nós, como humanos, escolhemos usá-las.
 
-#### **Sugestão de Figura 5:**
+![Image](IAxHuman.jpg)
 *Ilustração representando o equilíbrio entre tecnologia, ética e sociedade.*
 
 ---
