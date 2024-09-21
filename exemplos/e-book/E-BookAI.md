@@ -46,8 +46,8 @@ Por outro lado, **tarefas repetitivas ou baseadas em padrões** tendem a ser sub
 
 Para prosperar nesse novo cenário, habilidades como **pensamento crítico, criatividade** e **gestão de IA** se tornarão fundamentais.
 
-#### **Sugestão de Figura 3:**
-*Gráfico ou linha do tempo demonstrando o impacto da automação em diversas áreas de trabalho.*
+![Image](AIsinergy.jpg)
+*Imagem demonstrando o impacto da automação em diversas áreas de trabalho.*
 
 ---
 
