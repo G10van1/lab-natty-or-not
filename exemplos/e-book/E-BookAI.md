@@ -85,12 +85,6 @@ As IAs generativas já estão entre nós, influenciando o presente e moldando o 
 
 ---
 
-#### **Espaço reservado para sugestões de leitura ou referências adicionais**
-
----
-
 Espero que tenha gostado dessa jornada pelo impacto das IAs generativas! Até a próxima revolução!
 
 ---
-
-Ficou claro o formato que você está procurando? Se quiser fazer alguma alteração ou expandir em algum ponto, é só avisar!
