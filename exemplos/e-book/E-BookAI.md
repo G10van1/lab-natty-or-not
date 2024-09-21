@@ -15,7 +15,7 @@ Se você já brincou com um chatbot que parece saber o que você quer dizer ante
 Ao contrário de outras formas de IA, que apenas analisam ou classificam informações, as IAs generativas **criam algo novo**, como poemas, artigos, soluções de problemas, ou até mesmo esboços de projetos criativos.
 
 ![Image](AI-AIGen.jpg)
-*Diagrama ilustrando a diferença entre IAs tradicionais (classificação) e IAs generativas (criação).*
+*Diferença entre IAs tradicionais (classificação) e IAs generativas (criação).*
 
 ---
 
@@ -32,7 +32,7 @@ Isso já não é mais ficção científica. IAs generativas estão **transforman
 Essa nova era de produtividade promete não só facilitar nossa rotina, mas também elevar nossa capacidade criativa para novos patamares.
 
 ![Image](FuturisticAI.jpg)
-*Cena de cotidiano com diferentes aplicações de IA (assistente virtual, criação automática de conteúdos, automação em tarefas).* 
+*Diferentes aplicações de IA (assistente virtual, criação automática de conteúdos, automação em tarefas).* 
 
 ---
 
@@ -47,7 +47,7 @@ Por outro lado, **tarefas repetitivas ou baseadas em padrões** tendem a ser sub
 Para prosperar nesse novo cenário, habilidades como **pensamento crítico, criatividade** e **gestão de IA** se tornarão fundamentais.
 
 ![Image](AIsinergy.jpg)
-*Imagem demonstrando o impacto da automação em diversas áreas de trabalho.*
+*O impacto da automação em diversas áreas de trabalho.*
 
 ---
 
@@ -60,7 +60,7 @@ A IA pode simular o estilo de um grande pintor ou criar composições musicais i
 No futuro, as **parcerias entre humanos e IAs** em campos como design, escrita, música e arte prometem dar origem a um novo tipo de criatividade, onde o impossível se torna realidade.
 
 ![Image](AIxHuman.jpg)
-*Criações humanas versus criações geradas por IA.*
+*Equilíbrio entre criações humanas e criações geradas por IA.*
 
 ---
 
@@ -75,7 +75,7 @@ Além disso, precisamos estar atentos às **questões de equidade**. Quem terá 
 No fim, as IAs generativas têm um enorme potencial para **transformar a sociedade**, mas isso dependerá de como nós, como humanos, escolhemos usá-las.
 
 ![Image](IAxHuman.jpg)
-*Ilustração representando o equilíbrio entre tecnologia, ética e sociedade.*
+*Equilíbrio entre tecnologia, ética e sociedade.*
 
 ---
 
