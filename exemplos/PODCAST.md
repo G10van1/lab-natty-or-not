@@ -14,7 +14,7 @@ Este podcast de 3 minutos oferece um passeio rápido, mas profundo, pelo mundo d
 ## 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
-[PODCAST AQUI](./podcast/posr.md)
+[PODCAST AQUI](./podcast/post.md)
 
 <audio controls>
   <source src="./podcast/PodcastIAGenerativa.mp3" type="audio/mpeg">
