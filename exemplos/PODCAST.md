@@ -14,7 +14,7 @@ Este podcast de 3 minutos oferece um passeio rápido, mas profundo, pelo mundo d
 ## 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
-[LINK PODCAST](https://g10van1.github.io/podcast-ai-generative/)
+[ACESSE O PODCAST AQUI](https://g10van1.github.io/podcast-ai-generative/)
 
 ## 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
