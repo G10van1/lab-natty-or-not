@@ -16,6 +16,8 @@ O episódio é uma introdução acessível e estimulante ao campo das IAs Genera
 
 [PODCAST AQUI](./podcast/post.md)
 
+[Podcast](https://g10van1.github.io/lab-natty-or-not/examples/podcast/post.md)
+
 <audio controls>
   <source src="https://g10van1.github.io/lab-natty-or-not/examples/podcast/PodcastIAGenerativa.mp3" type="audio/mpeg">  
   Seu navegador não suporta o elemento de áudio.
