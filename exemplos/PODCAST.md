@@ -17,7 +17,7 @@ O episódio é uma introdução acessível e estimulante ao campo das IAs Genera
 [PODCAST AQUI](./podcast/post.md)
 
 <audio controls>
-  <source src="./podcast/PodcastIAGenerativa.mp3" type="audio/mpeg">
+  <source src="https://drive.google.com/file/d/1p4j3nwQR-yMuB3JJVXZq0ZBPnysqCOI1/view?usp=drive_link" type="audio/mpeg">
   Seu navegador não suporta o elemento de áudio.
 </audio>
 
