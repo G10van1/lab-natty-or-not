@@ -14,7 +14,12 @@ Este podcast de 3 minutos oferece um passeio rápido, mas profundo, pelo mundo d
 ## 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
-[LINK PARA O PODCAST AQUI]()
+[PODCAST AQUI](./podcast/posr.md)
+
+<audio controls>
+  <source src="./podcast/PodcastIAGenerativa.mp3" type="audio/mpeg">
+  Seu navegador não suporta o elemento de áudio.
+</audio>
 
 ## 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
